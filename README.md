@@ -1,5 +1,5 @@
 <h1 align="center">
-  LDTS_L01G07 - Timeless Odyssey
+  LDTS - Timeless Odyssey
 </h1>
 
 <p align="center">
@@ -77,10 +77,11 @@ Timeless Odyssey is a 2D platformer game where the main character explores a fut
   <img src="docs/resources/uml/class/structure.png"/>
 </p>
 
-## RESULTS
+---
 
- - Intermediate delivery (10%): 20.0/20
- - Final Product (60%): 19.1/20
- - Final Report (30%): 20.0/20
-
- - Final Grade: 19.5/20
+> Class: 2LEIC01 Group: G07  
+> Intermediate Delivery (10%): 20.0
+> Product (60%): 19.1
+> Report (30%): 20.0
+> Final Grade: 19.5
+> Created in November 2023 for LDTS (Laboratório de Design e Teste de Software) [FEUP-L.EIC014]  
