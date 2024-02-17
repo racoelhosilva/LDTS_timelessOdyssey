@@ -79,9 +79,9 @@ Timeless Odyssey is a 2D platformer game where the main character explores a fut
 
 ---
 
-> Class: 2LEIC01 Group: G07  
-> Intermediate Delivery (10%): 20.0
-> Product (60%): 19.1
-> Report (30%): 20.0
-> Final Grade: 19.5
-> Created in November 2023 for LDTS (Laboratório de Design e Teste de Software) [FEUP-L.EIC014]  
+> Class: 2LEIC01 Group: G07    
+> Intermediate Delivery (10%): 20.0  
+> Product (60%): 19.1  
+> Report (30%): 20.0  
+> Final Grade: 19.5  
+> Created in November 2023 for LDTS (Laboratório de Design e Teste de Software) [FEUP-L.EIC014]    
